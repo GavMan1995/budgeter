@@ -13,4 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= materialize-sprockets
+//= require react
+//= require react_ujs
+//= require components
 //= require_tree .
